@@ -1,8 +1,8 @@
 import ProjectCard from "../components/Projectcard";
 import { Container, Row, Col } from "react-bootstrap";
-import adoptable from "/src/Assets/images/adoptable.png";
-import doggoadventures from "/src/assets/images/doggo-adventures.png";
-import hungryhub from "/src/assets/images/hungry-hub.jpg";
+import adoptable from "../Assets/images/adoptable.png";
+import doggoadventures from "../Assets/images/doggo-adventures.png";
+import hungryhub from "../Assets/images/hungry-hub.jpg";
 import "../pages/style.css";
 
 function Projectlist() {
