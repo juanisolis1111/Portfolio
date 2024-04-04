@@ -14,7 +14,7 @@ function Home() {
             <h2 className="headtext">
               Hello <span className="wave"> 🥳</span>
             </h2>
-            <h2 className="nametext">Im Juan I. Solis</h2>
+            <h2 className="nametext">I'm Juan I. Solis</h2>
             <span></span>
             <Text />
             <button
