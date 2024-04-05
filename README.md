@@ -16,6 +16,8 @@ The website is correctly bundled with React in production mode, ensuring optimiz
 
 For more information about deploying a React application, refer to the [deployment documentation](https://facebook.github.io/create-react-app/docs/deployment).
 
+https://juan-solis.netlify.app/
+
 ## Contact Information
 
 You can reach out to me via email at [solid.dogtraining@gmail.com](mailto:solid.dogtraining@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/juanisolis/).
